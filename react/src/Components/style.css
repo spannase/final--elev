@@ -1,0 +1,12 @@
+.table, tr, td,th{
+    border:1px solid black;
+}
+
+img{
+    padding:10px;
+}
+.center{
+  padding-top: 20px;
+   width:500px;
+   margin: auto;
+}
